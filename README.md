@@ -8,8 +8,8 @@ Currently finishing my **MSc in Bioinformatics** (VIU) while working on other pe
 
 ### 🔬 What I'm working on
 
-- **[Pharmagen](https://github.com/Aderfi/Pharmagen)** — Hybrid neural network (FM + Transformers) that predicts pharmacogenomic phenotypes from gene-drug interactions. 86.89% accuracy on phenotype classification. Currently evolving toward a GNN-based architecture (Twin-Tower with GATv2).
-- **[Phfluid](https://github.com/Aderfi/Phfluid)** — Computational simulation of non-Newtonian fluid rheology applied to topical pharmaceutical formulations.
+- **[Pharmagen](https://github.com/Aderfi/Pharmagen)** — Hybrid neural network (FM + Transformers) that predicts pharmacogenomic phenotypes from gene-drug interactions. Currently evolving toward a GNN-based architecture.
+- **[Phfluid](https://github.com/Aderfi/Phfluid)** — Computational simulation of non-Newtonian fluid rheology applied to ...
 - **[BrewStaggerBar](https://github.com/Aderfi/BrewStaggerBar)** — Weak Aura addon for World of Warcraft (Lua). Because even pharmacists need downtime.
 
 ### 🧰 Stack
