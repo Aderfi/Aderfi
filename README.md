@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hey, I'm Adrim 👋
 
-<!--
-**Aderfi/Aderfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pharmacist turned computational scientist. I like to  **pharmacogenomics**, **deep learning**, and **drug design**.
 
-Here are some ideas to get you started:
+Currently finishing my **MSc in Bioinformatics** (VIU) while working on other personal projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔬 What I'm working on
+
+- **[Pharmagen](https://github.com/Aderfi/Pharmagen)** — Hybrid neural network (FM + Transformers) that predicts pharmacogenomic phenotypes from gene-drug interactions. 86.89% accuracy on phenotype classification. Currently evolving toward a GNN-based architecture (Twin-Tower with GATv2).
+- **[Phfluid](https://github.com/Aderfi/Phfluid)** — Computational simulation of non-Newtonian fluid rheology applied to topical pharmaceutical formulations.
+- **[BrewStaggerBar](https://github.com/Aderfi/BrewStaggerBar)** — Weak Aura addon for World of Warcraft (Lua). Because even pharmacists need downtime.
+
+### 🧰 Stack
+
+`Python` · `PyTorch` · `PyTorch Geometric` · `Optuna` · `pandas` · `scikit-learn` · `RDKit` · `Polars`  
+`Lua` · `Shell` · `Git` · `Linux (Debian)`  
+
+### 📄 Recent work
+
+- **TFM:** *AI & Personalized Medicine — Pharmacogenomic prediction pipelines and deep learning models* (VIU, 2026). Designed a full NGS-to-clinical-prediction workflow integrating bioinformatics preprocessing with a multi-task classification model.
+- **v2 in progress:** Building a graph-based pharmacogenomics library — molecular graphs (RDKit → PyG) and positional genomic graphs for gene variants, feeding into a Twin-Tower GATv2 architecture.
+
+### 🌍 About me
+
+- 📍 Spain
+- 🎓 PharmD (Universidad de Granada) + MSc Bioinformatics (VIU)
+- 🗣️ Spanish · English (B2) · French (basic)
+- ⚡ Self-taught developer, powered by ADHD hyperfocus
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adrim-hamed">LinkedIn</a> · 
+  <a href="mailto:adrimh.outmani@gmail.com">Email</a>
+</p>
